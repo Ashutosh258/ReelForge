@@ -2,7 +2,7 @@
 
 **Drop clips + a song → get a beat-synced reel.** ReelForge is a Windows app that cuts your footage on every beat, adds speed ramps, transitions, sound effects and lyric captions, and exports a finished reel for Instagram, YouTube Shorts and TikTok. It runs on your PC, with no uploads and no account.
 
-**Website:** https://ashutosh258.github.io/ReelForge/
+**Website:** https://reelforge-beige.vercel.app
 **Download:** [ReelForge-Setup-x64.exe](https://github.com/Ashutosh258/ReelForge/releases/latest/download/ReelForge-Setup-x64.exe) (Windows 10 / 11, 64-bit)
 
 ![ReelForge editor](img/workspace.webp)
