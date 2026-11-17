@@ -10,7 +10,8 @@
 ## Features
 
 - Beat detection and automatic arrangement: cuts land on the beat, the drop gets the big moment
-- 28 editing styles: Velocity, Cinematic, Beat Sync, Glitch Core, Retro Tape, Night Drive, Lyrics and more
+- 29 editing styles: Velocity, Cinematic, Beat Sync, Glitch Core, Retro Tape, Night Drive, Lyric Spotlight and more
+- Cut-out lyric titles, sparkle-star transitions, window framing and twinkling star stickers
 - Velocity speed ramps with motion blur, editable speed curves
 - Lyric captions from offline transcription or an `.lrc` file
 - Beat-synced sound effects and music automation
